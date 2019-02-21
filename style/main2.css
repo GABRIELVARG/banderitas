@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:#178BCE;
+    text-align: center;
+}
+nav ul li{
+ display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+        display: inline-block;
+        padding: 11px 35px;
+        text-decoration: none;
+        color: unset;
+        font-family: 'Dancing Script', cursive;
+        font-size: 31px;      
+}
+.active{
+    background-color: #22E7EE;
+}
+h1{
+   background-color: skyblue;
+   text-align: center;
+   color: blue;
+   margin: auto;
+   font-size: 33px;
+}   
+
+/*BANDERA DE RUSIA*/
+.page1{
+  width:700px;
+  height:285px;
+  border: solid;
+  border-color: black;
+  margin:auto;
+  background-color:white ;
+  padding:5px;
+  padding-top: 1px;
+}
+.page1a{
+    width:343px ;
+    height:274px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(179, 176, 176);
+    display: inline-block;
+    vertical-align: text-top;
+}
+.page1aa{
+    width:324px ;
+    height:70px;
+    background-color:beige;
+    margin: 10px;
+ }
+.page1aaa{
+    width: 324px;
+    height: 70px;
+    background-color: #0101B8;
+    margin: -10px 3px 4px 10px;
+}
+.page1a3{
+    width: 324px;
+    height: 70px;
+    background-color: red;
+    margin: -4px 0px 0px 10px;
+}
+.page1a h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 14px;
+    font-size: 20px;
+}
+/*BANDERA DE CANADA*/
+.page1b{
+    width: 85px;
+    height: 211px;
+    background-color: red;
+    margin: 10px;
+}
+.page1bb{
+    width: 150px;
+    height: 211px;
+    background-color: beige;
+    margin: -221px 0px 0px 95px;
+}
+.page1bbb{
+    width: 85px;
+    height: 211px;
+    background-color: red;
+    margin: -211px 2px 0px 246px;
+}
+.page1bb img{
+    width: 145px;
+    height: 176px;
+    margin: 19px 0px 68px 3px;
+}
+.page1a h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 14px;
+    font-size: 20px;
+}
+
+/*BANDERA DE FINLANDIA*/
+.page2m{
+    width:700px;
+    height:285px;
+    border: solid;
+    border-color: black;
+    margin:auto;
+        background-color:white ;
+    padding:5px;
+    padding-top: 1px;
+}
+.page2j{
+      width:343px ;
+      height:274px;
+      border:solid ;
+      border-color:black ;
+      margin: 4px 0 -5px -1PX;
+      background-color: rgb(179, 176, 176);
+      display: inline-block;
+      vertical-align: text-top;
+}
+.page2l{
+    width:343px ;
+    height:274px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(179, 176, 176);
+    display: inline-block;
+    vertical-align: text-top;
+}
+.pagell{
+    width: 319px;
+    height: 215px;
+    background-color: beige;
+    margin: 11px 2px 0px 12px;
+}
+.pagelll{
+    width: 65px;
+    height: 216px;
+    background-color: #03037B;
+    margin: -215px 2px 0px 95px;
+}
+
+.pagellll{
+    width: 319px;
+    height: 69px;
+    background-color: #03037B;
+    margin: -145px 2px 0px 12px;
+}
+.page2j h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 85px;
+    font-size: 20px;
+}
+/*BANDERA JAPON*/
+.pager{
+    width: 319px;
+    height: 215px;
+    background-color: beige;
+    margin: 11px 2px 0px 12px;
+}
+.pagerr{
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    margin: -171px 0px 0px 111px;
+    background-color: rgba(174, 2, 2, 0.89);
+}
+.page2l h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 56px;
+    font-size: 20px;
+}
+/*BANDERA COREA DEL NORTE*/
+.page3k{
+    width:700px;
+    height:285px;
+    border: solid;
+    border-color: black;
+    margin: auto;
+        background-color:white ;
+    padding:5px;
+    padding-top: 1px;
+}
+.pagekk{
+  width:343px ;
+  height:274px;
+  border:solid ;
+  border-color:black ;
+  margin: 4px 0 -5px -1PX;
+  background-color: rgb(179, 176, 176);
+  display: inline-block;
+  vertical-align: text-top;
+}
+.pagekm{
+    width:343px ;
+    height:274px;
+    border:solid ;
+    border-color:black ;
+    margin: 4px 0 -5px -1PX;
+    background-color: rgb(179, 176, 176);
+    display: inline-block;
+    vertical-align: text-top;
+  }
+.pageh{
+    width: 320px;
+    height: 45px;
+    background-color: #0606C4;
+    margin: 12px 2px 0px 13px;
+}
+.pagehh{
+    width: 320px;
+    height: 9px;
+    background-color: beige;
+    margin: -2px 2px 0px 13px;
+}
+
+.pagehg{
+    width: 320px;
+    height: 114px;
+    background-color: red;
+    margin: 0px 2px 0px 13px;
+}
+.pagehñ{
+    width: 320px;
+    height: 9px;
+    background-color: beige;
+    margin: -2px 2px 0px 13px;
+}
+
+.pagehhh{
+    width: 320px;
+    height: 40px;
+    background-color: #0606C4;
+    margin: 0px 2px 0px 13px;
+}
+.pagehg img{
+    width: 88px;
+    height: 97px;
+    margin: 8px 0px 68px 51px;
+}
+.pagekk h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 14px;
+    font-size: 20px;
+}
+/*BANDERA PANAMA*/
+.page6a{
+    width: 319px;
+    height: 215px;
+    background-color: beige;
+    margin: 11px 2px 0px 12px;
+}
+.page6b{
+    width: 160px;
+    height: 109px;
+    background-color: #060694;
+    margin: -109px 2px 0px 12px;
+}
+.page6c{
+    width: 160px;
+    height: 107px;
+    background-color: red;
+    margin: -215px 2px 0px 171px;
+}
+.pagekm img{
+    width: 79px;
+    height: 79px;
+    margin: -93px 0px 68px 52px;
+}
+.page6a img{
+    width: 79px;
+    height: 79px;
+    margin: 119px 0px 68px 201px;
+}
+.pagekm h1{
+    background-color:transparent;
+    text-align: center;
+    color: black;
+    margin: 62px;
+    font-size: 20px;
+}
